@@ -1,1 +1,1 @@
-# File_Array
+# Bundle data from log file and return the count or frequency of Mozilla keyword from the log data
