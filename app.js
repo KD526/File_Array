@@ -35,7 +35,7 @@ function init_app(onComplete, onError) {
 function countOccurrences(data, keyword) {
     const lines = data.split('\n');
     let count = 0;
-
+    //returns count for keyword
     lines.forEach(line => {
         if (line.includes(keyword)) {
             count++;
